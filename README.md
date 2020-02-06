@@ -1,7 +1,8 @@
-# Memory Matching Game (under construction)
+# Memory Matching Game
+- [memory matching game script](./Memory_Game.java)
+
 - this was a project that I created for my Comp 284 Intro to Java class
 - this is my true first project created in Java 
-- the backend of the game works well but I do need some help improving user interface and making backend more "clean"
 
 ### Explaination of Game
 - the game works like a tile memory matching game where the user selects a tile from a grid of hidden tiles
@@ -10,6 +11,3 @@
 finding all matching pairs
 - if the second tile selected does not match with the first, both tiles are then hidden again
 - the goal of the game is to find all matching pairs(which are hidden) 
-
-### Links 
-- [memory matching game script](https://github.com/choucurtis987/custom_projects/blob/master/memory_matching_game/Memory_Game.java)
