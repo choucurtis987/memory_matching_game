@@ -2,7 +2,7 @@
 - [memory matching game script](./Memory_Game.java)
 
 ## Background
-- This was a project that I created for my Comp 284 Intro to Java class during Fall 2019
+- This was a project that I created for my COMP 284 Intro to Java class during Fall 2019
 - This is my true first project created in Java 
 - This is a text-based version of the game
 
